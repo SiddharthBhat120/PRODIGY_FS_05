@@ -159,7 +159,6 @@ Frontend runs at: `http://localhost:5173`
 ![Dashboard](screenshots/dashboard.png)
 ![Create Post](screenshots/create-post.png)
 ![Profile](screenshots/profile.png)
-![MongoDB Data](screenshots/mongodb-data.png)
 
 ---
 
